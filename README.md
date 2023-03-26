@@ -5,10 +5,11 @@ This is an iOS application that I developed to learn and test out list views wit
 ## Features
 
 - List View of videos.
-- Description pages of each video.
-- Links to watch the complete 
-- Clean design
-- iOS Application
+- Description pages of each video,
+- Links to watch the complete,
+- Clean design,
+- Button to open video externally,
+- iOS Application.
 
 
 ## Demo
